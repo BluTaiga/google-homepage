@@ -1,35 +1,45 @@
-#center {
-
-}
-
 #center .goog-image {
     display: block;
     padding-top: 109px;
+    padding-bottom: 25px;
     margin: auto;
 }
 
 .search {
     display: block;
-    width: 300px;
-    height: 25px;
+    width: 400px;
+    height: 30px;
     margin: auto;
 }
 
 .left-b {
-    padding: 10.5px 21px;
+    padding: 10.5px 40px;
     text-align: center;
     width: 7%;
-    margin: auto;
+    margin-left: 38%;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    height: 36px;
+    line-height: 27px;
+
+
+
+
     color: red;
     border: 1px solid red;
+    display: block;
+    float: left;
 }
 
 .right-b {
     padding: 10.5px 21px;
     text-align: center;
     width: 7%;
-    margin: auto;
+    margin-right: 38%;
     color: green;
     border: 1px solid green;
+    display: block;
+    float: right;
 }
 
