@@ -1,14 +1,25 @@
 .goog-image {
-    position: relative;
-    padding-top: 109px;
     display: block;
+    padding-top: 109px;
+    margin: auto;
+}
+
+.search {
+    display: block;
+    width: 300px;
+    height: 25px;
+    margin: auto;
 }
 
 .left-b {
     color: red;
+    display: inline-block;
+    margin: auto;
 }
 
 .right-b {
     color: green;
+    display: inline-block;
+    margin: auto;
 }
 
