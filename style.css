@@ -1,3 +1,7 @@
+#topnav {
+    display: block;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
@@ -8,8 +12,8 @@ li {
     float: right;
 }
 
-.link {
-    display: block;
+.link {   
+    display: inline;
     padding: 8px;
     background-color: #dddddd;
 }
