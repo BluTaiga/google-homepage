@@ -1,4 +1,20 @@
-#center .goog-image {
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    float: right;
+}
+
+.link {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+}
+
+.goog-image {
     display: block;
     padding-top: 109px;
     padding-bottom: 25px;
@@ -21,10 +37,11 @@
     font-weight: 700;
     height: 28px;
     line-height: 27px;
-    color: white;
-    background: red;
+    color: grey;
+    background: #f8f8f8;
     display: inline-block;
     margin-left: 36.5%;
+    margin-right: 4px;
 }
 
 .right-b {
@@ -36,8 +53,8 @@
     font-weight: 700;
     height: 28px;
     line-height: 27px;
-    color: white;
-    background: green;
+    color: grey;
+    background: #f8f8f8;
     display: inline-block;
+    margin-right: 4px;
 }
-
