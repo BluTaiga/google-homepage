@@ -13,33 +13,31 @@
 }
 
 .left-b {
-    padding: 10.5px 40px;
+    padding: 15px 32px;
     text-align: center;
-    width: 7%;
-    margin-left: 38%;
+    text-decoration: none;
     font-family: arial,sans-serif;
     font-size: 13px;
     font-weight: 700;
-    height: 36px;
+    height: 28px;
     line-height: 27px;
-
-
-
-
-    color: red;
-    border: 1px solid red;
-    display: block;
-    float: left;
+    color: white;
+    background: red;
+    display: inline-block;
+    margin-left: 36.5%;
 }
 
 .right-b {
-    padding: 10.5px 21px;
+    padding: 15px 32px;
     text-align: center;
-    width: 7%;
-    margin-right: 38%;
-    color: green;
-    border: 1px solid green;
-    display: block;
-    float: right;
+    text-decoration: none;
+    font-family: arial,sans-serif;
+    font-size: 13px;
+    font-weight: 700;
+    height: 28px;
+    line-height: 27px;
+    color: white;
+    background: green;
+    display: inline-block;
 }
 
